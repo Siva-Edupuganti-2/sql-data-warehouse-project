@@ -92,8 +92,3 @@ sql-data-warehouse-project/
 
 ---
 
-## 👤 Author
-
-**Sri Siva Satya Venkat Edupuganti**  
-📧 sivaedupuganti28@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/)
